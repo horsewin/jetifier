@@ -7,7 +7,8 @@ const libraryList = [
     'react-native-tcp',
     'react-native-udp',
     '@react-native-community/slider',
-    'react-native-camera'
+    'react-native-camera',
+    'react-native-fs'
 ];
 module.exports = {
     libraryList
