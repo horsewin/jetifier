@@ -8,7 +8,8 @@ const libraryList = [
     'react-native-udp',
     '@react-native-community/slider',
     'react-native-camera',
-    'react-native-fs'
+    'react-native-fs',
+    'react-native-firebase'
 ];
 module.exports = {
     libraryList
