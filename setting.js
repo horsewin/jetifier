@@ -8,7 +8,8 @@ const libraryList = [
     '@react-native-community/slider',
     'react-native-camera',
     'react-native-fs',
-    'react-native-firebase'
+    'react-native-firebase',
+    'lottie-react-native'
 ];
 module.exports = {
     libraryList
